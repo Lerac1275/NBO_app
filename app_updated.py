@@ -28,15 +28,6 @@ os.environ['OPENAI_API_KEY']=api_key
 client = OpenAI(api_key=os.environ.get('OPENAI_API_KEY'))
 
 def customer_profile(datapath="./customers.csv"):
-
-    # gmail config-----------------------------------
-    # default_address = ['guanjw@gmail.com'] 
-    # send_from = 'guanjw@gmail.com'
-    # subject="🔥Exciting Offers From Maybank🯯"    
-    # send_to = 'guanjw@gmail.com'
-    # username = 'guanjw@gmail.com'
-    # password = os.getenv('gmail_app_key')
-
     st.set_page_config(layout='wide')
 
     if 'full_response' not in st.session_state:
