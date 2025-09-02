@@ -1,0 +1,6 @@
+id,first_name,last_name,age,occupation,education,email_address,mobile_number,segment,credit_bureau,credit_score,lifetime_value,propensity,Travel Insurance,Car Loan,Mortgage
+S1234567A,Ali,M,20,Banker,Postgraduate,Ali@gmail.com,+60 12-288 1234,Affulent,No deliquency,Very good,25200,Very likely,0.9,0.6,0.3
+S1234567B,Gilbert,Koh,30,Businessman,Bachelor,Gilbert@gmail.com,+60 12-288 1235,Emerging Affulent,No deliquency,Good,10000,Very likely,0.8,0.4,0.5
+S1234567C,Daniel,Li,40,Manager,Deploma,Daniel@gmail.com,+60 12-288 1236,Emerging Affulent,No deliquency,Poor,20000,Likely,0.7,0.3,0.1
+S1234567D,John,Tan,50,Retiree,Bachelor,John@gmail.com,+60 12-288 1237,Affulent,No deliquency,Excellent,100000,Likely,0.5,0.2,0.2
+S1234567E,Muz,Ho,60,Teacher,Postgraduate,Muz@gmail.com,+60 12-288 1238,Emerging Affulent,No deliquency,Very good,2000,Likely,0.6,0.6,0.4
